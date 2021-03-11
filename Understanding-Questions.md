@@ -6,4 +6,4 @@
 * Button submits when all required fields are filled correctly and button is clicked
 * Submitted information renders in the DOM
 * Button does not submit when fields are incorrectly filled
-* Information does not render to the DOM when button is clicked but does not submit
+* Information does not render to the DOM when button is clicked but fields are incorrectly filled
